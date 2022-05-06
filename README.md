@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/78720436/167179347-ad1bbd89-e999-459b-896d-ab24e3a84bad.png)
 
 **freeCodeCamp**
-[freeCodeCamp Certification](https://www.freecodecamp.org/certification/g_martin21/javascript-algorithms-and-data-structures)
+[freeCodeCamp JavaScript Certification](https://www.freecodecamp.org/certification/g_martin21/javascript-algorithms-and-data-structures)
 
 
 - 👋 Hi, I’m @G-Martin21
