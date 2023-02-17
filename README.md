@@ -2,8 +2,7 @@
 ![image](https://www.codewars.com/users/G-Martin21/badges/large)
 
 **TryHackMe**
-
-![image](<img src="https://tryhackme-badges.s3.amazonaws.com/GPMartin.png" alt="TryHackMe">)
+<script src="https://tryhackme.com/badge/1298142"></script>
 
 **freeCodeCamp**
 [freeCodeCamp JavaScript Certification](https://www.freecodecamp.org/certification/g_martin21/javascript-algorithms-and-data-structures)
