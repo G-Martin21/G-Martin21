@@ -3,7 +3,7 @@
 
 **TryHackMe**
 
-<script src="https://tryhackme.com/badge/1298142"></script>
+![image](<script src="https://tryhackme.com/badge/1298142"></script>)
 
 **freeCodeCamp**
 [freeCodeCamp JavaScript Certification](https://www.freecodecamp.org/certification/g_martin21/javascript-algorithms-and-data-structures)
