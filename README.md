@@ -60,9 +60,9 @@ https://www.codewars.com/users/G-Martin21
   
 https://tryhackme.com/dashboard
 
-	In the top 2%
-	9 badges earn
-	Completed Advent of Cyber 4 (XMass 30 day challenge)
+- In the top 2%
+- 9 badges earned
+- Completed Advent of Cyber 4 (XMass 30 day challenge)
 	[Advent of Cyber 4](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RTKP9HTAH4.png)
 
 ## Education
