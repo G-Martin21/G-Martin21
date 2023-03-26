@@ -21,15 +21,19 @@ You can click the Preview link to take a look at your changes.
 --->
 ## PortFolio
 ## Gonzalo Parada Martín
-### Professional Chef
+### Ethical Hacker Apprentice
 722 21 89 50 
 gparadamartin1@gmail.com
 
 ## Summary
+
 Transitioning from the hospitality field and seeking a full-time role in the field of Information Technology - Cybersecurity.
 My years of experience as chef give me skills in management, customer service, team working and being able to work under presure to deadlines.
-I am self-taugh
-Pitch-elevator
+
+Hi!, my name is G. Martin, and I'm a professional chef making a career change. I'm been always keen to learn about IT and love solving problems, so being self-taught I learn how to program, how to build a simple server, how to manage Linux and last year become interested in cybersecurity, having completed the tryhackme Xmass challenge and several others CTF's.
+	
+Now I'm looking to put my skills into practice by working in the cybersecurity field.
+
 ## Credentials
 
 - [Cisco Networking Basics](https://skillsforall.com/course/networking-devices-and-initial-configuration?userLang=en-US)
