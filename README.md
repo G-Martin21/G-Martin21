@@ -7,8 +7,6 @@ Hi!, my name is Gonzalo Parada, and I'm a professional chef making a career chan
 	
 Now I'm looking to put my skills into practice by working in the cybersecurity field.
 
----
-
 ## Languages and Tools
 
  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
@@ -19,8 +17,6 @@ Now I'm looking to put my skills into practice by working in the cybersecurity f
  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <br />
-
----
 
 ![image](https://www.codewars.com/users/G-Martin21/badges/small)
 
