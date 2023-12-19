@@ -21,6 +21,7 @@ Now I'm looking to put my skills into practice by working in the cybersecurity f
 />
 <br />
 
-![image](https://www.codewars.com/users/G-Martin21/badges/large)
+---
+![image](https://www.codewars.com/users/G-Martin21/badges/small)
 
 ### Projects
