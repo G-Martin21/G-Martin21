@@ -24,6 +24,8 @@ Now I'm looking to put my skills into practice by working in the cybersecurity f
 
 - freeCodeCamp certification [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/g_martin21/javascript-algorithms-and-data-structures)
 
+https://tryhackme.com/img/badges/adventofcyber4.svg
+
 ### Profiles
 
 [Exercism](https://exercism.org/profiles/G-Martin21)
