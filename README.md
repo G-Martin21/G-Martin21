@@ -29,3 +29,5 @@ Now I'm looking to put my skills into practice by working in the cybersecurity f
 [Exercism](https://exercism.org/profiles/G-Martin21)
 
 [TryHackMe](https://tryhackme.com/p/GPMartin)
+
+[CodeWars](https://www.codewars.com/users/G-Martin21)
