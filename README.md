@@ -23,3 +23,8 @@ Now I'm looking to put my skills into practice by working in the cybersecurity f
 ### Projects
 
 - freeCodeCamp certification [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/g_martin21/javascript-algorithms-and-data-structures)
+
+### Profiles
+
+https://exercism.org/profiles/G-Martin21
+
