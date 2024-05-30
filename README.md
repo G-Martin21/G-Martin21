@@ -3,7 +3,7 @@
 ### Cybersecurity Apprentice
 
 ## About Me
-Hi!, my name is Gonzalo P. Martin, and I'm a professional chef making a career change. I'm been always keen to learn about IT and love solving problems, so being self-taught I learned how to program, how to build a simple server, how to manage Linux and become interested in cybersecurity, having completed the tryhackme Xmass challenge and several others CTF's.
+Hi!, my name is Gonzalo, and I'm a professional chef making a career change. I'm been always keen to learn about IT and love solving problems, so being self-taught I learned how to program, how to build a simple server, how to manage Linux and become interested in cybersecurity, having completed the tryhackme Xmass challenge and several others CTF's.
 	
 Now I'm looking to put my skills into practice by working in the cybersecurity field.
 
